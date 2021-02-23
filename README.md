@@ -1,4 +1,4 @@
 # ML100Days
-Python資料科學程式馬拉松
-To home work 
-To learn data analysis
+1. Python資料科學程式馬拉松/n
+2. To home work /n
+3. To learn data analysis /n
